@@ -1,3 +1,8 @@
+This project is a final project in class CSE6242 Data Visual and Analytic. 
+The final project is called Passenger Saver based on Uber Surge.
+
+
+=====the following are the discription of the code part and how the data is processed=====
 The original data is from Kaggle:
 
 https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma
